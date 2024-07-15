@@ -1,2 +1,2 @@
 # frozen
-Frozen Lake Game, Q Learning
+run the run_experiments.py file
